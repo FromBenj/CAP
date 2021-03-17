@@ -11,7 +11,7 @@ The theme was **'Create a web app that bring people together during the pandemic
 CAP was designed using a 'mobile first' approach.
 
 
-# How to run
+## How to run
 - clone the repo
 - run ```composer install```
 - run ```yarn install```
