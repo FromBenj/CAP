@@ -31,7 +31,8 @@ CAP was designed using a 'mobile first' approach.
 - [Claire](https://github.com/Claire812)
 - [Victor](https://github.com/victorcdrdm)
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 **Our web app is online: [CAP](http://capoupascap.ovh/)!**
